@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DevSecOps pipelines, SIEM monitoring, and securing Cloud infrastructures<br>👯 I’m looking to collaborate on Open-source Cybersecurity, Cloud Security, and DevSecOps projects<br>🤝 I’m looking for help with Advanced Cloud Security Architectures & Threat Hunting<br>🌱 I’m currently learning Advanced Kubernetes Security, DevSecOps automation, and Cloud-native security<br>💬 Ask me about SIEM (Wazuh, Elastic), DevSecOps (GitHub Actions, SonarQube, Trivy), Cloud Security (AWS, Docker, K8s), and Network Security<br>⚡ Fun fact I love combining Cybersecurity, Cloud engineering, and AI to build secure systems!
+🔭 I’m currently working on DevSecOps pipelines, SIEM monitoring, and securing Cloud infrastructures<br>👯 I’m looking to collaborate on Open-source Cybersecurity, Cloud Security, and DevSecOps projects<br>🌱 I’m currently learning Advanced Kubernetes Security, DevSecOps automation, and Cloud-native security<br>💬 Ask me about SIEM (Wazuh, Elastic), DevSecOps (GitHub Actions, SonarQube, Trivy), Cloud Security (AWS, Docker, K8s), and Network Security<br>⚡ Fun fact I love combining Cybersecurity, Cloud engineering, and AI to build secure systems!
 
 
 ## 🌐 Socials:
